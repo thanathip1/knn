@@ -2,7 +2,7 @@ from sklearn.neighbors import KNeighborsClassifier
 import streamlit as st
 import pandas as pd
 import numpy as np
-import seaboorn as sns
+import seaborn as sns
 import matplotlib.pyplot as plt
 
 
